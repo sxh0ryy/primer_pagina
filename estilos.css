@@ -1,0 +1,77 @@
+/* 1. Selector body */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 0;
+}
+
+/* 2. Selector h1 */
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* 3. Selector h2 */
+h2 {
+    color: blue;
+    font-size: 24px;
+    margin-top: 25px;
+    border-bottom: 2px solid blue;
+}
+
+/* 4. Selector p */
+p {
+    font-size: 17px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 15px;
+}
+
+/* 5. Selector ul */
+ul {
+    background-color: #e6f2ff;
+    padding: 25px;
+    border: 1px solid blue;
+}
+
+/* 6. Selector ol */
+ol {
+    background-color: #e6ffe6;
+    padding: 25px;
+    border: 1px solid green;
+}
+
+/* 7. Selector li */
+li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* 8. Selector img */
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+/* 9. Selector a */
+a {
+    color: #003366;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+/* 10. Selector a:hover */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
